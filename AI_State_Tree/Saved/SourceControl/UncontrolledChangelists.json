@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal/AI_State_Tree/Content/Characters/Mannequins/Anims/Test.uasset",
 				"C:/Users/thomas.collins/Documents/Unreal Projects/AI_State_Tree/Content/BP_Enemy_Character.uasset",
 				"C:/Users/thomas.collins/Documents/Unreal Projects/AI_State_Tree/Content/BT_Wait.uasset",
 				"C:/Users/thomas.collins/Documents/Unreal Projects/AI_State_Tree/Content/Cooking_Station.uasset",
