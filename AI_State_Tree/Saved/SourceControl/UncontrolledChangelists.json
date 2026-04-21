@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thomas.collins/Documents/StateTree/AI_State_Tree/Content/AI_StateTree/AI_StateTree.uasset",
+				"C:/Users/thomas.collins/Documents/StateTree/AI_State_Tree/Content/AI_StateTree/BT_FindCookingStation.uasset",
+				"C:/Users/thomas.collins/Documents/StateTree/AI_State_Tree/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/TH/I4EZ0P6EICL6PQIX7HQCYQ.uasset",
+				"C:/Users/thomas.collins/Documents/StateTree/AI_State_Tree/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/Y7/AT2KV963TIF7KYYFF7I5J3.uasset",
+				"C:/Users/thomas.collins/Documents/StateTree/AI_State_Tree/Content/Characters/Mannequins/Anims/Animation_Blueprint.uasset",
+				"C:/Users/thomas.collins/Documents/StateTree/AI_State_Tree/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump_Montage.uasset",
 				"C:/Users/thomas.collins/Documents/Unreal Projects/AI_State_Tree/Content/BP_Enemy_Character.uasset",
 				"C:/Users/thomas.collins/Documents/Unreal Projects/AI_State_Tree/Content/BT_Wait.uasset",
 				"C:/Users/thomas.collins/Documents/Unreal Projects/AI_State_Tree/Content/Cooking_Station.uasset",
